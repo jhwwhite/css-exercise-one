@@ -55,8 +55,8 @@ body
 nav {
   background color: yellow;
   height: 100px;
-  margin-top: -10px;
-  position: fixed;
+  margin-top: 50px;
+  text-align: center;
   width: 100%;
 }
 
