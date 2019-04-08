@@ -47,13 +47,10 @@ table {
 	border-spacing: 0;
 }
 
-body
-{
-  font-size: 14px;
-}
+
 
 nav {
-  background color: yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: 50px;
   text-align: center;
@@ -77,6 +74,18 @@ h1 {
 
 h3 {
   font-size: 1.3em;
+}
+
+.seventh {
+	background-color: Yellow;
+}
+
+.eigth {
+	background-color: blue;
+}
+
+.ninth {
+	background-color: red;
 }
 
 .element {
